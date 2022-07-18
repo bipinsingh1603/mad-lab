@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<records>
+    <place>
+        <name>Dharamsala</name>
+        <lat>32.245185</lat>
+        <long>76.313384</long>
+        <temperature>30</temperature>
+        <humidity>44%</humidity>
+    </place>
+    <place>
+        <name>Hubbali</name>
+        <lat>15.031414</lat>
+        <long>75.005352</long>
+        <temperature>27</temperature>
+        <humidity>67%</humidity>
+    </place>
+</records>

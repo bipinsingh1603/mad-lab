@@ -1,0 +1,16 @@
+[
+  {
+    "name":"Banglore",
+    "lat":"13.038665",
+    "long":"77.620653",
+    "temperature":"26",
+    "humidity":"60%"
+  },
+  {
+    "name":"Kota",
+    "lat":"23.841306",
+    "long":"73.713732",
+    "temperature":"40",
+    "humidity":"21%"
+  }
+]
