@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VisitingCard</string>
+    <string name="Name">Sonam Dorji</string>
+    <string name="CompanyName">Leymeh Co</string>
+    <string name="JobTitle">Junior Developer</string>
+    <string name="PhoneNo">+91 1234567890</string>
+    <string name="Address">Outer Ring Road,\nNagawara,\nBengaluru,\nKarnataka 560045</string>
+    <string name="Email">manos87@gmail.com</string>
+    <string name="Website">manos.com</string>
+    <string name="Fax">+91-80-1234567</string>
+</resources>
